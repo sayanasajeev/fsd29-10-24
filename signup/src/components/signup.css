@@ -1,0 +1,47 @@
+.react{
+
+  border-color: aqua;
+  border: 20px;
+  margin-top: 8%;
+  background-color: #abdcf8;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.9);
+    width: 300px;
+    align-items: center;
+    padding: 20px;
+    margin-left: 37%;
+
+}
+    #sub{
+        
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        width: 200px;
+        background-color:rgb(225, 241, 253);
+    }
+
+ 
+
+.h{
+
+    margin-left: 50px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: fit-content;
+}
+.b {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
